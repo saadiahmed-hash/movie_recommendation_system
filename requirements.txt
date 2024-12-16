@@ -4,3 +4,4 @@ requests
 mlxtend
 streamlit
 scikit-learn  
+streamlit==1.29.0
